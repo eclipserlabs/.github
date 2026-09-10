@@ -25,15 +25,6 @@ Eclipser Labs works across **tools**, **infrastructure**, and **applied research
 | **Tools** | **Infrastructure** | **Research** |
 | Libraries, runtimes, developer utilities | Building blocks for reliable systems | Prototypes and experiments that inform production work |
 
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
 ## Explore
 
 All work is public. Start from [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — every repo ships its own README with setup, usage, and status.
@@ -44,9 +35,9 @@ git clone https://github.com/eclipserlabs/<repo>.git
 
 ## How we work
 
-- ✔ Small, focused repositories with clear scope
-- ✔ Documentation alongside code
-- ✔ Issues and pull requests welcome
+- Small, focused repositories with clear scope
+- Documentation alongside code
+- Issues and pull requests welcome
 
 ---
 
