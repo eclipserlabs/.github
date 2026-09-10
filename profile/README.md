@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/eclipserlabs"><img src="https://img.shields.io/github/followers/eclipserlabs?style=flat-square&logo=github&label=Followers" alt="followers"/></a>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/orgs/eclipserlabs/repositories"><img src="https://skillicons.dev/icons?i=go,rust,py,ts" alt="Go, Rust, Python, TypeScript"/></a>
 </p>
 
 ---
