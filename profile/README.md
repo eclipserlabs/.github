@@ -20,12 +20,12 @@
 
 ## About
 
-Eclipser Labs works across **tools**, **infrastructure**, and **applied research**. Each project lives in its own repository with dedicated documentation — this profile is the front door, not the manual.
+Eclipser Labs works across **tools**, **infrastructure**, **AI engineering**, and **applied research**. Each project lives in its own repository with dedicated documentation — this profile is the front door, not the manual.
 
-| | | |
-|:---:|:---:|:---:|
-| **Tools** | **Infrastructure** | **Research** |
-| Libraries, runtimes, developer utilities | Building blocks for reliable systems | Prototypes and experiments that inform production work |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **Tools** | **Infrastructure** | **AI engineering** | **Research** |
+| Libraries, runtimes, developer utilities | Building blocks for reliable systems | Agent systems, LLM infrastructure, safe execution | Prototypes and experiments that inform production work |
 
 ## Explore
 
