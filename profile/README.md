@@ -3,18 +3,6 @@
   <p align="center"><strong>Engineering tools, infrastructure, and applied research.</strong></p>
 </p>
 
-<pre align="center">
-┌───────────────────┐
-│   ECLIPSER LABS   │
-└─────────┬─────────┘
-          │
-    ┌─────┼─────┐
-    ▼     ▼     ▼
- ┌──────┐ ┌───────┐ ┌──────────┐
- │tools │ │ infra │ │ research │
- └──────┘ └───────┘ └──────────┘
-</pre>
-
 <p align="center">
   <a href="https://github.com/eclipserlabs"><img src="https://img.shields.io/github/followers/eclipserlabs?style=flat-square&logo=github&label=Followers" alt="followers"/></a>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
