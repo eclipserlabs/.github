@@ -12,10 +12,6 @@
   <a href="https://github.com/eclipserlabs"><img src="https://img.shields.io/github/followers/eclipserlabs?style=flat-square&logo=github&label=Followers" alt="followers"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/orgs/eclipserlabs/repositories"><img src="https://skillicons.dev/icons?i=go,rust,py,ts" alt="Go, Rust, Python, TypeScript"/></a>
-</p>
-
 ---
 
 ## About
