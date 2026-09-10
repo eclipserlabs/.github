@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center">Eclipser Labs</h1>
   <p align="center"><strong>Engineering tools, infrastructure, and applied research.</strong></p>
+  <p align="center">An engineering labs organization building and maintaining open-source software.</p>
 </p>
 
 <p align="center">
@@ -15,32 +16,40 @@
 
 ---
 
-### About
+## About
 
-Eclipser Labs is an engineering labs organization working across tools, infrastructure, and applied research. We build and maintain open-source software, with each project documented and versioned in its own repository.
+Eclipser Labs works across **tools**, **infrastructure**, and **applied research**. Each project lives in its own repository with dedicated documentation — this profile is the front door, not the manual.
 
-### Focus areas
+| | | |
+|:---:|:---:|:---:|
+| **Tools** | **Infrastructure** | **Research** |
+| Libraries, runtimes, developer utilities | Building blocks for reliable systems | Prototypes and experiments that inform production work |
 
-- **Engineering tools** — libraries, runtimes, and developer utilities
-- **Infrastructure** — building blocks for reliable systems
-- **Applied research** — prototypes and experiments that inform production work
+## Stack
 
-### Explore
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
-All of our work is public. Browse the full list under [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — each repository contains its own README with setup, usage, and status.
+## Explore
+
+All work is public. Start from [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — every repo ships its own README with setup, usage, and status.
 
 ```bash
 git clone https://github.com/eclipserlabs/<repo>.git
 ```
 
-### How we work
+## How we work
 
-- Small, focused repositories with clear scope
-- Documentation alongside code
-- Issues and pull requests welcome
+- ✔ Small, focused repositories with clear scope
+- ✔ Documentation alongside code
+- ✔ Issues and pull requests welcome
 
-### Get in touch
+---
 
-Open an issue in the relevant repository to report a bug, request a feature, or start a discussion. For significant changes, please open an issue first before submitting a PR.
+> Open an issue in the relevant repository to report a bug, request a feature, or start a discussion. For significant changes, please open an issue first before submitting a PR.
 
 <p align="center"><sub>○ ◔ ◑ ◕ ● ◕ ◑ ◔ ○</sub></p>
