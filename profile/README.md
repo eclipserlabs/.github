@@ -13,35 +13,30 @@
 
 ---
 
-### Projects
+### About
 
-| Project | What it is | CI | License | Stars |
-|---|---|---|---|---|
-| [**btree**](https://github.com/eclipserlabs/btree) `Rust` | Behavior tree engine with LLM reasoning nodes | [![CI](https://github.com/eclipserlabs/btree/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/btree/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/btree) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/btree?style=flat-square) |
-| [**interceptor**](https://github.com/eclipserlabs/interceptor) `Python` | Let agents safely execute consequential actions | [![CI](https://github.com/eclipserlabs/interceptor/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/interceptor/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/interceptor) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/interceptor?style=flat-square) |
-| [**igris**](https://github.com/eclipserlabs/igris) `Go` | Governed execution layer for controlled runs, fallback paths, and signed records | [![runtime-ci](https://github.com/eclipserlabs/igris/actions/workflows/runtime-ci.yml/badge.svg)](https://github.com/eclipserlabs/igris/actions/workflows/runtime-ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/igris) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/igris?style=flat-square) |
-| [**marshal**](https://github.com/eclipserlabs/marshal) `Rust` | Policy-checked tool execution for agents | [![CI](https://github.com/eclipserlabs/marshal/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/marshal/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/marshal) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/marshal?style=flat-square) |
-| [**overture**](https://github.com/eclipserlabs/overture) `Go` | Safe execution boundary for consequential operations triggered by automated systems | [![CI](https://github.com/eclipserlabs/overture/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/overture/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/overture) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/overture?style=flat-square) |
-| [**rapture**](https://github.com/eclipserlabs/rapture) `TypeScript` | Systems-engineering repository | [![CI](https://github.com/eclipserlabs/rapture/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/rapture/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/rapture) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/rapture?style=flat-square) |
-| [**thompson**](https://github.com/eclipserlabs/thompson) `Rust` | Beta-Bernoulli multi-armed bandit for dynamic provider/model selection with multi-objective rewards | [![CI](https://github.com/eclipserlabs/thompson/actions/workflows/ci.yml/badge.svg)](https://github.com/eclipserlabs/thompson/actions/workflows/ci.yml) | ![License](https://img.shields.io/github/license/eclipserlabs/thompson) | ![Stars](https://img.shields.io/github/stars/eclipserlabs/thompson?style=flat-square) |
+Eclipser Labs is an engineering labs organization working across tools, infrastructure, and applied research. We build and maintain open-source software, with each project documented and versioned in its own repository.
 
-### Getting started
+### Focus areas
 
-Each repository is standalone with its own README covering setup and usage:
+- **Engineering tools** — libraries, runtimes, and developer utilities
+- **Infrastructure** — building blocks for reliable systems
+- **Applied research** — prototypes and experiments that inform production work
+
+### Explore
+
+All of our work is public. Browse the full list under [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — each repository contains its own README with setup, usage, and status.
 
 ```bash
 git clone https://github.com/eclipserlabs/<repo>.git
 ```
 
-See the table above for the full list.
+### How we work
 
-### Stack
+- Small, focused repositories with clear scope
+- Documentation alongside code
+- Issues and pull requests welcome
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Get in touch
 
-### Contributing
-
-Issues and PRs welcome. For significant changes, please open an issue first to discuss.
+Open an issue in the relevant repository to report a bug, request a feature, or start a discussion. For significant changes, please open an issue first before submitting a PR.
