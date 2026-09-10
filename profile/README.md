@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/cover.png" width="100%" alt="Eclipser Labs"/>
+</p>
+
+<p align="center">
   <h1 align="center">Eclipser Labs</h1>
   <p align="center"><strong>Engineering tools, infrastructure, and applied research.</strong></p>
   <p align="center">An engineering labs organization building and maintaining open-source software.</p>
@@ -40,5 +44,3 @@ git clone https://github.com/eclipserlabs/<repo>.git
 ---
 
 > Open an issue in the relevant repository to report a bug, request a feature, or start a discussion. For significant changes, please open an issue first before submitting a PR.
-
-<p align="center"><sub>○ ◔ ◑ ◕ ● ◕ ◑ ◔ ○</sub></p>
